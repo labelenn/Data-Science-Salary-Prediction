@@ -1,8 +1,6 @@
 Project Title: Predicting Salaries of Different Data Science Jobs
 
-By Lance Belen
-
-A university project for Practical Data Science, a course at RMIT University Australia.
+A university project for Practical Statistics (MATH 2412), a course at RMIT University Australia.
 
 The technology stack used: Python, NumPy, Pandas, SQL, Excel, Jupyter Notebook
 
